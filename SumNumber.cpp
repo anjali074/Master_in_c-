@@ -10,9 +10,7 @@ int main(){
   while( number<=upperbond){
     sum=sum+number;
 ++number;
-
-
-  }
+}
   cout<<"The  sum from 1 to "<<upperbond<<"is"<<sum<<endl;
   return 0;
 }
