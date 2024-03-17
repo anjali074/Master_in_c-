@@ -1,4 +1,4 @@
-/*sum the odd and even  number from 1 to n upperbond*/
+/*sum upperbond*/
 #include<iostream>
 using namespace std;
 int main(){
