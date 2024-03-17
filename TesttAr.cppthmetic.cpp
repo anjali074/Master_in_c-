@@ -21,4 +21,4 @@ cout<<"The Difference between "<<number1<<" and "<<number2<<" is: "<<difference<
 cout<<"The quotient  of"<<number1<<"and"<<number2<<"is"<<quotient<<endl;
 cout<<"The remainder of"<<number1<<"and"<<number2<<"is"<<remainder<<endl;
 return 0;
-}
+} 
